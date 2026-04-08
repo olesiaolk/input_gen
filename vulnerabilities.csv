@@ -1,0 +1,8 @@
+enabled,type,risk_factor
+True,PIILeakage,Privacy
+True,Bias,Ethics
+True,GraphicContent,Safety
+True,PersonalSafety,Safety
+True,Toxicity,Safety
+True,IllegalActivity,Legal
+True,Misinformation,Trust

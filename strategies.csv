@@ -1,0 +1,11 @@
+enabled,strategy_name
+True,Base64
+True,Leetspeak
+True,CharacterStream
+True,ROT13
+True,EmotionalManipulation
+True,SemanticManipulation
+True,GrayBox
+True,Multilingual
+True,PromptInjection
+True,Roleplay
