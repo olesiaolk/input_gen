@@ -1,2 +1,4 @@
 deepteam==1.0.5
+opentelemetry-exporter-otlp-proto-grpc==1.39.1
 pandas>=2.0,<3
+python-dotenv==1.2.1
